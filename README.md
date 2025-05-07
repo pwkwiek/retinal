@@ -1,7 +1,7 @@
-# retinal
+# Retinal Vessel Segmentation Using Color Space Optimization and Attention U-Net
 *Color Me Vascular: Deep Learning with a Touch of Contrast*
 
-## Retinal Vessel Segmentation Using Color Space Optimization and Attention U-Net
+##
 
 Accurate segmentation of retinal blood vessels is vital for early detection of diseases such as diabetic retinopathy and hypertension. This project presents a deep learning-based approach using an optimized **Attention U-Net** architecture trained on contrast-enhanced image patches (256×256), with a focus on evaluating the impact of **color space representation** on segmentation performance.
 
