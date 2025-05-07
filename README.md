@@ -19,6 +19,7 @@ Accurate segmentation of retinal blood vessels is vital for early detection of d
 
 * channels.ipynb: generate datasets based on channels of various color space models
 * net.ipynb: Attention U-Net Architecture; training + testing; addapt to whole image prediction
+* sample_results.png: example of whole image segmentation for 3 images
 
 ### 💡 Highlights
 
